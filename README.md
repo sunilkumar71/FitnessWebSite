@@ -19,7 +19,7 @@ Modern web browser
 
 Steps
 
-Clone the repository: git clone https://github.com/vkumar89/HealthHarmony2.git
+Clone the repository: git clone https://github.com/sunilkumar71/FitnessWebSite.git
 
 Navigate to the project directory: cd HealthHarmony2
 
@@ -61,7 +61,7 @@ SQL Script [https://drive.google.com/file/d/1SPRhvfKlY6i5-MmElvy9itWETIuXXcp7/vi
 
 Contact Information
 
-For questions or issues, please contact kumarvipin897946@gmail.com.
+For questions or issues, please contact sunilrth071@gmail.com.
 
 
 
